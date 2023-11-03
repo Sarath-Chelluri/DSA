@@ -46,4 +46,4 @@ def binary_add(one, two):
     return sum
 
 
-print(binary_add("11", "11"))
+print(binary_add("110", "11"))
