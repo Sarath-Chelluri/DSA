@@ -13,4 +13,4 @@ def camelCase(str):
     return
 
 
-camelCase("hiHelloHamsterGoo")
+camelCase("hiHeLloHamsterGoo")
