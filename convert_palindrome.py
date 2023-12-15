@@ -4,4 +4,4 @@ def palindrome(num):
     return num + num[:-1:][::-1]
 
 
-print(palindrome("abcd"))
+print(palindrome("abcdcban"))
